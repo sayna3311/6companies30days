@@ -38,7 +38,6 @@ int main()
     vector<string> v(n);
     for (int i = 0; i < n; i++)
     {
-        /* code */
         cin>>v[i];
     }
     string s;
